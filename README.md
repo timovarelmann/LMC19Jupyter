@@ -1,1 +1,7 @@
-# LMC19Jupyter
+# LMC19Jupyter 
+  
+This repository contains introductory materials on using Jupyter Notebook as an integrated  
+platform for interactive programming in the context of computational musicology.  
+  
+It's main use lies within the workshop given at the 2019 spring school in *language and music cognition*  
+at the University of Cologne on February 2nd, 2019.
